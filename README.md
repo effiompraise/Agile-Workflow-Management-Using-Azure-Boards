@@ -77,4 +77,4 @@ I help growing SaaS companies turn security from a roadblock into a launchpad fo
 * **Let's Connect:** [LinkedIn Profile](https://www.linkedin.com/in/praiseeffiom)
 
 ---
-*Note: This project is based on a hands-on lab simulation "Agile Workflow Management Using Azure Boards".*
+*Note: This project is based on a hands-on lab simulation "Agile Workflow Management Using Azure Boards.*
