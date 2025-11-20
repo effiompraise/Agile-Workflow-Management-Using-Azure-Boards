@@ -42,7 +42,7 @@ Speed means nothing without sustainability. I configured the **Capacity** engine
 * **Leave Management:** Integrated team vacation schedules (e.g., 5-day leave blocks) to automatically adjust sprint velocity targets.
 * **Load Balancing:** Utilized the "Work details" pane to visualize over-allocated team members and re-distribute tasks effectively.
 
-![Capacity Planning Dashboard](images/capacity-planning.png)
+![Capacity Planning Dashboard](https://github.com/effiompraise/Agile-Workflow-Management-Using-Azure-Boards/blob/75cab266dbfa44aec5c874b8ccc4b558f82cc402/Agile%20Workflow%20Management%20Using%20Azure%20Boards/Screenshot%202025-11-19%20203447.png)
 *> Visualizing team bandwidth to ensure we commit only to what we can deliver.*
 
 ### 4. Advanced Kanban Board Customization
