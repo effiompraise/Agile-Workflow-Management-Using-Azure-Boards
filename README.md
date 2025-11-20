@@ -33,7 +33,7 @@ To translate business strategy into engineering execution, I built a structured 
 * **Task Decomposition:** Broke down Epics into actionable tasks, such as *"Add page for most recent tutorials"* and *"Optimize data query"*.
 * **Traceability:** Enforced parent-child links to maintain visibility from the code level up to the business objective.
 
-![Backlog Hierarchy View](images/backlog-hierarchy.png)
+![Backlog Hierarchy View](https://github.com/effiompraise/Agile-Workflow-Management-Using-Azure-Boards/blob/d8732ff6278cb0709ea44c415b27da2fc2236975/Agile%20Workflow%20Management%20Using%20Azure%20Boards/Screenshot%202025-11-19%20204544.png)
 *> The backlog hierarchy linking Epics to granular Tasks, ensuring every commit maps to a business value.*
 
 ### 3. Capacity Planning & Resource Balancing
