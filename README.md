@@ -2,7 +2,7 @@
 
 ![Azure DevOps](https://img.shields.io/badge/Azure_DevOps-0078D7?style=for-the-badge&logo=azure-devops&logoColor=white) ![Agile](https://img.shields.io/badge/Agile-scrum-blue?style=for-the-badge) ![DevSecOps](https://img.shields.io/badge/DevSecOps-Security-red?style=for-the-badge)
 
-> **"Security isn't just about compliance; it's about building trust and enabling innovation."** > This project demonstrates how I leverage **Azure Boards** to transform chaotic workflows into streamlined, scalable, and secure delivery pipelines—a critical foundation for growing SaaS companies.
+> **"Security isn't just about compliance; it's about building trust and enabling innovation."**  This project demonstrates how I leverage **Azure Boards** to transform chaotic workflows into streamlined, scalable, and secure delivery pipelines—a critical foundation for growing SaaS companies.
 
 ## 📋 Project Overview
 
