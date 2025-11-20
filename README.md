@@ -54,7 +54,7 @@ The Kanban board was engineered to act as a live dashboard for project health, n
 * **Quality Gates (WIP Limits):** Enforced a WIP limit of **1** on the *"QA Approved"* column to force flow and prevent pile-ups.
 * **Definition of Done (DoD):** Enabled Split Columns (Doing/Done) and mandated criteria (e.g., *"Passes all tests"*) before items can exit a stage.
 
-![Customized Kanban Board](images/kanban-board.png)
+![Customized Kanban Board](https://github.com/effiompraise/Agile-Workflow-Management-Using-Azure-Boards/blob/06859ba01245ef48f4b8c93bd582728d43e52b2c/Agile%20Workflow%20Management%20Using%20Azure%20Boards/Screenshot%202025-11-19%20205835.png)
 *> The fully customized board featuring Expedite swimlanes, WIP limits, and conditional styling.*
 
 ---
